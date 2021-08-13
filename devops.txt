@@ -1,0 +1,11 @@
+DEVOPS
+-------
+version control: GIT
+Build Tools: Apache-Mavin
+Continious Integration Tools: Jenkins(free of cost)
+Configuration Management Tools: Ansible
+Containerization Tools: Docker
+Container Management Tools: Kubernetes
+Monitoring Tools: StackDriver(Google Service)
+Artifact Repository Management Tools: Nexus
+Cloud Platforms: Google Cloud, Basics of AZURE
